@@ -1,0 +1,571 @@
+[{
+  "_id": {
+    "$oid": "63f626d5d733a95a9473e6f1"
+  },
+  "name": "GTX 1080",
+  "price": 1000,
+  "category": "Choose Category:",
+  "description": "The GeForce GTX 1080 was a high-end graphics card by NVIDIA, launched on May 27th, 2016. Built on the 16 nm process, and based on the GP104 graphics processor, in its GP104-400-A1 variant, the card supports DirectX 12. This ensures that all modern games will run on GeForce GTX 1080.",
+  "image": "https://images.anandtech.com/doci/11180/GTX1080TiCar_678x452.jpg",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f63131dae758179994d6b6"
+  },
+  "name": "RTX 2060",
+  "price": 2000,
+  "category": "GPU",
+  "description": "The GeForce RTX 2070 is a high-end graphics card by NVIDIA, launched on October 17th, 2018. Built on the 12 nm process, and based on the TU106 graphics processor, in its TU106-400A-A1 variant, the card supports DirectX 12 Ultimate. This ensures that all modern games will run on GeForce RTX 2070.",
+  "image": "https://images.anandtech.com/doci/14586/2080_1.jpg",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f63173dae758179994d6de"
+  },
+  "name": "RTX 4090",
+  "price": 8951,
+  "category": "GPU",
+  "description": "The Nvidia GeForce RTX 4090 is a high-end desktop graphics card based on the AD102 chip using the Ada Lovelace architecture. The 4090 offers 16,384 of the 18,432 cores and 24 GB GDDR6X graphics memory with a 384 bit memory bus and clocked at 21 Gbits.",
+  "image": "https://notebookspec.com/storage/pc-vga/1706-1.png",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f65938dae758179994dbd5"
+  },
+  "name": "Intel Core i3 13100F 3.4GHz 12MB Cache s1700",
+  "price": 505,
+  "category": "CPU",
+  "description": "Intel i3 processor for s1700 socket with 4 cores at 3.4GHz speed and with 12MB cache memory. This processor comes without a built-in graphics accelerator.",
+  "image": "https://ksp.co.il/shop/items/512/241411.jpg?v=666666",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f65ab5dae758179994dc38"
+  },
+  "name": "Intel Core i3 13100 3.4GHz 12MB Cache s1700",
+  "price": 665,
+  "category": "CPU",
+  "description": "Intel i3 processor for s1700 socket with 4 cores at 3.4GHz speed and with 12MB cache memory. ",
+  "image": "https://ksp.co.il/shop/items/512/241411.jpg?v=666666",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f65ad5dae758179994dc41"
+  },
+  "name": "Intel Core i5 11400 2.6Ghz 12MB Cache s1200",
+  "price": 779,
+  "category": "CPU",
+  "description": "Intel i5 processor with 6 cores suitable for the s1200 mount, at 2.6Ghz speed and with 12MB cache memory",
+  "image": "https://ksp.co.il/shop/items/512/143732.jpg?v=666666",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f65afddae758179994dc4a"
+  },
+  "name": "Intel Core i5 13400F 2.5GHz 20MB Cache s1700",
+  "price": 960,
+  "category": "CPU",
+  "description": "Intel i5 processor for s1700 socket with 10 cores - 6 cores at 2.5GHz speed and 4 cores at 1.8GHz speed and with 20MB cache memory. This processor comes without a built-in graphics accelerator.",
+  "image": "https://ksp.co.il/shop/items/512/241402.jpg?v=666666",
+  "inStock": false
+},{
+  "_id": {
+    "$oid": "63f65b2cdae758179994dc53"
+  },
+  "name": "Intel Core i5 13400 2.5GHz 20MB Cache s1700",
+  "price": 1090,
+  "category": "CPU",
+  "description": "Intel i5 processor for s1700 socket with 10 cores - 6 cores at 2.5GHz speed and 4 cores at 1.8GHz speed and with 20MB cache memory",
+  "image": "https://ksp.co.il/shop/items/512/241400.jpg?v=666666",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f65dcbdae758179994dd1d"
+  },
+  "name": "Intel Core i5 13500 2.5GHz 24MB Cache s1700",
+  "price": 1130,
+  "category": "CPU",
+  "description": "Intel i5 processor for s1700 socket with 14 cores - 6 cores at 2.5GHz speed and 8 cores at 1.8GHz speed and with 24MB cache memory.",
+  "image": "https://ksp.co.il/shop/items/512/241392.jpg?v=666666",
+  "inStock": false
+},{
+  "_id": {
+    "$oid": "63f65de6dae758179994dd28"
+  },
+  "name": "Intel Core i5 13600KF 3.5GHz 24MB Cache s1700",
+  "price": 1375,
+  "category": "CPU",
+  "description": "Intel i5 processor for the s1700 socket with 14 cores - 6 cores at 3.5GHz speed and 8 cores at 2.6GHz speed and with 24MB of cache memory. This processor comes without a built-in graphics accelerator.",
+  "image": "https://ksp.co.il/shop/items/512/234186.jpg?v=666666",
+  "inStock": false
+},{
+  "_id": {
+    "$oid": "63f65e00dae758179994dd33"
+  },
+  "name": "Intel Core i5 13600K 3.5GHz 24MB Cache s1700",
+  "price": 1445,
+  "category": "CPU",
+  "description": "Intel i5 processor for the s1700 socket with 14 cores - 6 cores at 3.5GHz speed and 8 cores at 2.6GHz speed and with 24MB of cache memory.",
+  "image": "https://ksp.co.il/shop/items/512/230495.jpg?v=666666",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f65e33dae758179994dd3e"
+  },
+  "name": "Intel Core i7 13700F 2.1GHz 30MB Cache s1700",
+  "price": 1715,
+  "category": "CPU",
+  "description": "Intel i7 processor for s1700 socket with 16 cores - 8 cores at 2.1GHz speed and 8 cores at 1.5GHz speed and with 30MB cache memory. This processor comes without a built-in graphics accelerator.",
+  "image": "https://ksp.co.il/shop/items/512/241372.jpg?v=666666",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f65e4ddae758179994dd49"
+  },
+  "name": "Intel Core i7 13700K 3.4GHz 30MB Cache s1700",
+  "price": 1915,
+  "category": "CPU",
+  "description": "Intel i7 processor for s1700 socket with 16 cores - 8 cores at 3.4GHz speed and 8 cores at 2.5GHz speed and with 30MB cache memory.",
+  "image": "https://ksp.co.il/shop/items/512/230484.jpg?v=666666",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f65e74dae758179994dd54"
+  },
+  "name": "Intel Core i9 13900KF 3.0GHz 36MB Cache s1700",
+  "price": 2689,
+  "category": "CPU",
+  "description": "Intel i9 processor for the s1700 socket with 24 cores - 8 cores at 3.0GHz speed and 16 cores at 2.2GHz speed and with 36MB of cache memory. This processor comes without a built-in graphics accelerator.",
+  "image": "https://ksp.co.il/shop/items/512/230480.jpg?v=666666",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f65e8fdae758179994dd5f"
+  },
+  "name": "Intel Core i9 13900K 3.0GHz 36MB Cache s1700",
+  "price": 2845,
+  "category": "CPU",
+  "description": "Intel i9 processor for the s1700 socket with 24 cores - 8 cores at 3.0GHz speed and 16 cores at 2.2GHz speed and with 36MB of cache memory.",
+  "image": "https://ksp.co.il/shop/items/512/230475.jpg?v=666666",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f6660ddae758179994de4b"
+  },
+  "name": "MSI GT 730 2GB DDR3",
+  "price": 315,
+  "category": "GPU",
+  "description": "Video card from MSI with 2GB built-in memory, VGA, HDMI and DVI ports.",
+  "image": "https://ksp.co.il/shop/items/512/237895.jpg?v=666666",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f66634dae758179994de52"
+  },
+  "name": "PNY GT 730 Single Fan Low Profile 2GB GDDR3",
+  "price": 340,
+  "category": "GPU",
+  "description": "Video card from PNY with 2GB built-in memory, HDMI, DVI and VGA ports.",
+  "image": "https://ksp.co.il/shop/items/512/192607.jpg?v=666666",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f6666adae758179994de5e"
+  },
+  "name": "MSI GT 1030 AERO ITX 2GB OC DDR4",
+  "price": 410,
+  "category": "GPU",
+  "description": "Quality video card from MSI with 2GB built-in memory, DVI and HDMI ports with OC settings directly from the factory",
+  "image": "https://ksp.co.il/shop/items/512/48280.jpg?v=666666",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f66696dae758179994de65"
+  },
+  "name": "MSI GTX 1630 VENTUS XS 4GB OC GDDR6 ",
+  "price": 760,
+  "category": "GPU",
+  "description": "High-quality video card from MSI with 4GB of built-in GDDR6 memory, HDMI, DVI, DisplayPort ports.",
+  "image": "https://ksp.co.il/shop/items/512/228143.jpg?v=666666",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f666c1dae758179994de6c"
+  },
+  "name": "GAINWARD GTX 1650 D6 GHOST 4GB GDDR6",
+  "price": 920,
+  "category": "GPU",
+  "description": "A powerful video card from GAINWARD with 4GB built-in memory, HDMI and 2xDP ports.",
+  "image": "https://ksp.co.il/shop/items/512/184508.jpg?v=666666",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f666f1dae758179994de7a"
+  },
+  "name": "Gigabyte GTX 1660 Super OC 6GB GDDR6",
+  "price": 1220,
+  "category": "GPU",
+  "description": "A powerful video card from Gigabyte with 6GB memory, HDMI ports and 3 DP ports with OC settings directly from the factory",
+  "image": "https://ksp.co.il/shop/items/512/75025.jpg?v=666666",
+  "inStock": false
+},{
+  "_id": {
+    "$oid": "63f6671bdae758179994de81"
+  },
+  "name": "PALIT GTX 1660 Ti StormX 6GB GDDR6",
+  "price": 1250,
+  "category": "GPU",
+  "description": "A quality video card from Palit with 6GB of fast GDDR6 memory, HDMI, DVI and DP connections.",
+  "image": "https://ksp.co.il/shop/items/512/246703.jpg?v=666666",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f66747dae758179994de88"
+  },
+  "name": "MSI RTX 3060 VENTUS 2X OC 8G GDDR6",
+  "price": 1690,
+  "category": "GPU",
+  "description": "A particularly powerful video card from MSI with 8GB built-in memory, 3xDP and HDMI ports.",
+  "image": "https://ksp.co.il/shop/items/512/237900.jpg?v=666666",
+  "inStock": false
+},{
+  "_id": {
+    "$oid": "63f66767dae758179994de8f"
+  },
+  "name": "Gigabyte AORUS RTX 3060 ELITE 12GB LHR GDDR6 ",
+  "price": 2290,
+  "category": "GPU",
+  "description": "High-quality and powerful video card from Gigabyte, with 12GB memory, 2xHDMI, 2xDP ports and with OC settings directly from the factory.",
+  "image": "https://ksp.co.il/shop/items/512/158240.jpg?v=666666",
+  "inStock": false
+},{
+  "_id": {
+    "$oid": "63f667addae758179994de9b"
+  },
+  "name": " ASUS ROG Strix GeForce RTX 4080 OC Edition 16GB GDDR6X",
+  "price": 6799,
+  "category": "GPU",
+  "description": "A powerful GeForce RTX 4080 graphics card from ASUS, the card comes with 16GB of memory, 3 fans in Axial-Tech technology, a metal body, ASUS software for personalization and monitoring and other gaming features.",
+  "image": "https://ksp.co.il/shop/items/512/237016.jpg?v=666666",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f667d0dae758179994dea2"
+  },
+  "name": "Kingston ValueRAM 8GB DDR4 3200MHz CL22",
+  "price": 105,
+  "category": "RAM",
+  "description": "High-quality computer memory from Kingston with a volume of 8GB in a 1x8GB configuration, type DDR4 and a speed of 3200MHz.",
+  "image": "https://img.ksp.co.il/item/114607/b_1.jpg?v=5",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f667ebdae758179994dea9"
+  },
+  "name": "G.Skill Value 8GB DDR4 2666Mhz CL19",
+  "price": 110,
+  "category": "RAM",
+  "description": "High-quality computer memory from G.SKILL type DDR4 in volume 8GB, in configuration 1x8GB and speed 2666Mhz",
+  "image": "https://img.ksp.co.il/item/72614/b_2.jpg?v=5",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f66808dae758179994deb0"
+  },
+  "name": "Kingston FURY BEAST 8GB DDR4 3200MHz CL16",
+  "price": 110,
+  "category": "RAM",
+  "description": "Extremely fast memory for a computer from Kingston with a volume of 8GB type DDR4 and a high speed of 3200MHz.",
+  "image": "https://img.ksp.co.il/item/164088/b_1.jpg?v=5",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f66825dae758179994deb7"
+  },
+  "name": "Kingston ValueRAM 8GB DDR4 2933MHz CL21",
+  "price": 169,
+  "category": "RAM",
+  "description": "High-quality computer memory from Kingston with a volume of 8GB in a 1x8GB configuration, type DDR4 and a speed of 2933MHz.",
+  "image": "https://img.ksp.co.il/item/114645/b_1.jpg?v=5",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f66846dae758179994debe"
+  },
+  "name": " Kingston FURY BEAST 16GB DDR4 3200MHz CL16",
+  "price": 195,
+  "category": "RAM",
+  "description": "Extremely fast memory for a computer from Kingston with a volume of 16GB, in a configuration of 1x16GB type DDR4 and a high speed of 3200MHz.",
+  "image": "https://img.ksp.co.il/item/208539/b_1.jpg?v=5",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f668eadae758179994dee3"
+  },
+  "name": "G.Skill Aegis 16GB DDR4 3000Mhz CL16",
+  "price": 230,
+  "category": "RAM",
+  "description": "High-quality computer memory from G.SKILL type DDR4 with a volume of 16GB, in a 1x16GB configuration and at a speed of 3000Mhz",
+  "image": "https://img.ksp.co.il/item/65895/b_2.jpg?v=5",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f6691adae758179994deea"
+  },
+  "name": "Corsair Value Select 32GB DDR4 2666MHz CL18",
+  "price": 475,
+  "category": "RAM",
+  "description": "High-quality computer memory from Corsair, type DDR4, with a volume of 32GB, in a 1x32GB configuration and at a speed of 2666MHz",
+  "image": "https://img.ksp.co.il/item/112519/b_2.jpg?v=5",
+  "inStock": false
+},{
+  "_id": {
+    "$oid": "63f6693cdae758179994def1"
+  },
+  "name": "HyperX Predator RGB 32GB DDR4 3000MHz CL16",
+  "price": 530,
+  "category": "RAM",
+  "description": "Extremely fast memory for a computer from HyperX with a volume of 32GB, in a configuration of 1x32GB type DDR4 and a high speed of 3000MHz.",
+  "image": "https://img.ksp.co.il/item/107779/b_2.jpg?v=5",
+  "inStock": false
+},{
+  "_id": {
+    "$oid": "63f66974dae758179994df07"
+  },
+  "name": "Kingston FURY BEAST RGB 32GB DDR5 5200MHz CL40",
+  "price": 670,
+  "category": "RAM",
+  "description": "Extremely fast memory for a computer from Kingston with a volume of 32GB, in a configuration of 1x32GB type DDR5 and a high speed of 5200MHz. Includes RGB lighting.",
+  "image": "https://img.ksp.co.il/item/212363/b_1.jpg?v=5",
+  "inStock": false
+},{
+  "_id": {
+    "$oid": "63f66998dae758179994df0e"
+  },
+  "name": "Corsair Vengeance 2x32GB DDR5 4800MHz CL40",
+  "price": 1920,
+  "category": "RAM",
+  "description": "High-quality computer memory from Corsair, type DDR5, with a volume of 64GB, in a 2x32GB configuration and at a speed of 4800MHz.",
+  "image": "https://img.ksp.co.il/item/219304/b_1.jpg?v=5",
+  "inStock": false
+},{
+  "_id": {
+    "$oid": "63f669b4dae758179994df15"
+  },
+  "name": "G.Skill Trident Z Royal RGB Silver 2x32GB DDR4 2666Mhz",
+  "price": 1050,
+  "category": "RAM",
+  "description": "High-quality computer memory from G.SKILL type DDR4 size 64GB in 2x32GB configuration, speed 2666Mhz and colored LED lighting",
+  "image": "https://img.ksp.co.il/item/136994/b_1.jpg?v=5",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f669cbdae758179994df1c"
+  },
+  "name": "G.Skill Ripjaws V 2x32GB DDR4 2666Mhz CL18 Kit",
+  "price": 990,
+  "category": "RAM",
+  "description": "High-quality computer memory from G.SKILL type DDR4 size 64GB in 2x32GB configuration and speed 2666Mhz",
+  "image": "https://img.ksp.co.il/item/91180/b_1.jpg?v=5",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f66b30dae758179994df2c"
+  },
+  "name": "Gigabyte H610M H Rev 1.0 DDR4 LGA1700",
+  "price": 395,
+  "category": "Motherboard",
+  "description": "Motherboard from Gigabyte, with LGA1700 socket, H610 chipset, compatibility with DDR4 memories and with VGA and HDMI ports.",
+  "image": "https://img.ksp.co.il/item/198357/b_1.jpg?v=5",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f66b4ddae758179994df33"
+  },
+  "name": "GIGABYTE B760 DS3H DDR4 LGA1700",
+  "price": 610,
+  "category": "Motherboard",
+  "description": "A high-quality motherboard from Gigabyte, with an LGA1700 socket, a B760 chipset, compatibility with DDR4 memories and with HDMI and DisplayPort ports.",
+  "image": "https://img.ksp.co.il/item/242455/b_1.jpg?v=5",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f66b6ddae758179994df3a"
+  },
+  "name": "ASUS TUF GAMING B760-PLUS WIFI D4 Intel LGA1700 B760 DDR4",
+  "price": 975,
+  "category": "Motherboard",
+  "description": "Quality motherboard from ASUS, with LGA1700 socket, B760 chipset, DDR4 memory compatibility, DP and HDMI ports.",
+  "image": "https://img.ksp.co.il/item/241475/b_1.jpg?v=5",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f66b9ddae758179994df41"
+  },
+  "name": "MSI MEG Z790 GODLIKE Intel LGA1700 Z790 DDR5",
+  "price": 5950,
+  "category": "Motherboard",
+  "description": "Motherboard from MSI with Z790 chipset, LGA1700 socket, DDR5 memory compatibility, Thunderbolt port and WiFi and Bluetooth connectivity.",
+  "image": "https://img.ksp.co.il/item/241613/b_1.jpg?v=5",
+  "inStock": false
+},{
+  "_id": {
+    "$oid": "63f66bb6dae758179994df48"
+  },
+  "name": " ASUS ROG MAXIMUS Z790 EXTREME Intel LGA1700 Z790 DDR5",
+  "price": 5690,
+  "category": "Motherboard",
+  "description": "Motherboard from ASUS, with LGA1700 socket, Z790 chipset, DDR5 memory compatibility, WiFI and Bluetooth connectivity.",
+  "image": "https://img.ksp.co.il/item/230448/b_1.jpg?v=5",
+  "inStock": false
+},{
+  "_id": {
+    "$oid": "63f6ae46d3e95821fb0e4dc4"
+  },
+  "name": "Corsair 550W 80+ Bronze CV550",
+  "price": 249,
+  "category": "PSU",
+  "description": "A quality power supply from Corsair with a power of 550 watts.",
+  "image": "https://img.ksp.co.il/item/100993/b_1.jpg?v=5",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f6ae62d3e95821fb0e4dcb"
+  },
+  "name": "Asus ROG-STRIX 650W GOLD ROG-STRIX-650G",
+  "price": 499,
+  "category": "PSU",
+  "description": "Quality modular power supply from Asus with a power of 650 watts",
+  "image": "https://img.ksp.co.il/item/79139/b_23.jpg?v=5",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f6ae8ed3e95821fb0e4dd2"
+  },
+  "name": "Antec Atom B650 12cm ",
+  "price": 219,
+  "category": "PSU",
+  "description": "Active and high-quality power supply from Antec with a power of 650W and with 80 PLUS Bronze certification.",
+  "image": "https://img.ksp.co.il/item/130443/b_2.jpg?v=5",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f6aea6d3e95821fb0e4dd9"
+  },
+  "name": "SeaSonic 650W Gold Series 12cm Fan 80+ Core GX-650",
+  "price": 425,
+  "category": "PSU",
+  "description": "Quality modular power supply from SeaSonic with a power of 650W",
+  "image": "https://img.ksp.co.il/item/72840/b_4.jpg?v=5",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f6aec2d3e95821fb0e4de0"
+  },
+  "name": "Antec Signature 1000 Platinum 1000W 13.5cm ",
+  "price": 999,
+  "category": "PSU",
+  "description": "High-quality active power supply from Antec with 1000W power and 80 PLUS PLATINUM certification.",
+  "image": "https://img.ksp.co.il/item/130582/b_1.jpg?v=5",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f6aee1d3e95821fb0e4de7"
+  },
+  "name": "Corsair 1600W 80+ Titanium AX1600i",
+  "price": 2390,
+  "category": "PSU",
+  "description": "High-quality active and modular power supply from Corsair with a power of 1600 watts",
+  "image": "https://img.ksp.co.il/item/49653/b_1.jpg?v=5",
+  "inStock": false
+},{
+  "_id": {
+    "$oid": "63f6aefcd3e95821fb0e4dee"
+  },
+  "name": "Antec CUPRUM STRIKE CSK 550W 80 Plus Bronze 120mm Fan CSK550 ",
+  "price": 240,
+  "category": "PSU",
+  "description": "Active and high-quality power supply from Antec with a power of 550W with 80 PLUS Bronze certification.",
+  "image": "https://img.ksp.co.il/item/206978/b_2.jpg?v=5",
+  "inStock": false
+},{
+  "_id": {
+    "$oid": "63f6af0ed3e95821fb0e4df5"
+  },
+  "name": "Asus TUF Gaming 450W Bronze TUF-GAMING-450B",
+  "price": 295,
+  "category": "PSU",
+  "description": "Quality power supply from Asus, TUF Gaming series with 450W power.",
+  "image": "https://img.ksp.co.il/item/133514/b_16.jpg?v=5",
+  "inStock": false
+},{
+  "_id": {
+    "$oid": "63f6af3fd3e95821fb0e4e02"
+  },
+  "name": "Asus GT301 TUF Gaming Mid Tower ",
+  "price": 430,
+  "category": "Case",
+  "description": "High-quality Mid-Tower case for gamers from Asus with a unique design that helps air flow, Aura Sync lighting, excellent cooling capabilities with a wide variety of places to install cooling of different sizes, the case comes with 3 front RGB fans included.",
+  "image": "https://img.ksp.co.il/item/97412/b_1.jpg?v=5",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f6af58d3e95821fb0e4e09"
+  },
+  "name": "Sharkoon RGB Slider ATX",
+  "price": 229,
+  "category": "Case",
+  "description": "A compact ATX case from Sharkoon with a side panel made of tempered glass, including plenty of space for adding fans and installing storage drives, an RGB strip with an RGB controller and two USB 3 connections available for quick access.",
+  "image": "https://img.ksp.co.il/item/129091/b_1.jpg?v=5",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f6af83d3e95821fb0e4e10"
+  },
+  "name": "Asus TUF Gaming GT501",
+  "price": 725,
+  "category": "Case",
+  "description": "High-quality mid-tower case for gamers from Asus with a side window made of blocking glass, includes 4 installed fans and support for up to 7 fans in total, support for radiators and a lot of space for storage and includes dust filters.",
+  "image": "https://img.ksp.co.il/item/123414/b_1.jpg?v=5",
+  "inStock": false
+},{
+  "_id": {
+    "$oid": "63f6af9cd3e95821fb0e4e17"
+  },
+  "name": "Corsair 4000D AIRFLOW Tempered Glass Mid Tower",
+  "price": 435,
+  "category": "Case",
+  "description": "A high-quality mid-tower case for gamers from Corsair with a huge side window and a tempered glass front window, multiple expansion options, 2 built-in fans and a variety of front connections",
+  "image": "https://img.ksp.co.il/item/119872/b_1.jpg?v=5",
+  "inStock": false
+},{
+  "_id": {
+    "$oid": "63f6afbdd3e95821fb0e4e1e"
+  },
+  "name": "Corsair 4000D AIRFLOW Tempered Glass Mid Tower",
+  "price": 425,
+  "category": "Case",
+  "description": "A high-quality mid-tower case for gamers from Corsair with a huge side window and a tempered glass front window, multiple expansion options, 2 built-in fans and a variety of front connections",
+  "image": "https://img.ksp.co.il/item/124380/b_16.jpg?v=5",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f6afd7d3e95821fb0e4e25"
+  },
+  "name": "Sharkoon MS-Y1000 Micro ATX",
+  "price": 325,
+  "category": "Case",
+  "description": "Medium ATX case from Sharkoon with 4 installed fans. Has multiple cooling and expansion options and 2 USB inputs on top.",
+  "image": "https://img.ksp.co.il/item/212306/b_1.jpg?v=5",
+  "inStock": true
+},{
+  "_id": {
+    "$oid": "63f6afecd3e95821fb0e4e2c"
+  },
+  "name": "MSI MEG PROSPECT 700R Mid Tower",
+  "price": 1590,
+  "category": "Case",
+  "description": "A quality case from MSI with a front mesh panel, multiple cooling and expansion options.",
+  "image": "https://img.ksp.co.il/item/241100/b_1.jpg?v=5",
+  "inStock": true
+}]
