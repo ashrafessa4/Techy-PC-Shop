@@ -1,0 +1,47 @@
+.horzline {
+  width: 15rem;
+  margin: auto;
+  border-top: 0.2rem solid #0b1116;
+}
+.my-card {
+  max-height: 7rem;
+  min-height: 7rem;
+  margin: 0.5rem;
+  max-width: 90%;
+  text-shadow: 0 0 1px #000;
+}
+.explaination {
+  margin: auto;
+  max-width: 65rem;
+  text-shadow: 0 0 1px #000;
+}
+.contact-us-info {
+  margin-left: 15rem;
+  margin-right: 15rem;
+}
+.contact-us-right {
+  position: relative;
+}
+.contact-us-left {
+  position: relative;
+}
+.align-right1 {
+  position: absolute;
+  right: -4rem;
+  bottom: 1rem;
+}
+.align-right2 {
+  position: absolute;
+  right: -4rem;
+  bottom: 3rem;
+}
+.align-left1 {
+  position: absolute;
+  right: 11rem;
+  bottom: 1rem;
+}
+.align-left2 {
+  position: absolute;
+  right: 11rem;
+  bottom: 3rem;
+}

@@ -1,0 +1,96 @@
+.link {
+  color: green;
+  text-decoration: none;
+}
+.link:hover {
+  color: #777;
+}
+.navLogofooter {
+  width: 10rem;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.footer-section {
+  background: #0b1116;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  margin-top: auto;
+}
+.footer-content {
+  position: relative;
+  z-index: 2;
+}
+.footer-text p {
+  margin-bottom: 14px;
+  font-size: 1rem;
+  color: #7e7e7e;
+  line-height: 28px;
+}
+.footer-widget-heading h3 {
+  color: #0ff;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  position: relative;
+}
+.footer-widget-heading h3::before {
+  content: "";
+  position: absolute;
+  left: 1;
+  bottom: -5px;
+  height: 2px;
+  width: 50px;
+  background: #000;
+}
+.footer-widget ul li {
+  display: inline-block;
+  width: 50%;
+  margin-bottom: 12px;
+}
+.footer-widget ul li a:hover {
+  color: #d3d3d3;
+}
+.footer-widget ul li a {
+  color: #878787;
+  text-transform: capitalize;
+}
+.end-area {
+  background: #000;
+  padding: 3px;
+}
+.end-text p {
+  margin: 0;
+  font-size: 14px;
+  color: #878787;
+}
+.end-text p a {
+  color: #d3d3d3;
+}
+.footer-menu li {
+  display: inline-block;
+  margin-left: 20px;
+}
+.footer-menu li:hover a {
+  color: #d3d3d3;
+}
+.footer-menu li a {
+  font-size: 14px;
+  color: #878787;
+}
+.forbidden {
+  cursor: not-allowed;
+}
+@media only screen and (max-width: 767px) {
+  .footer-widget,
+  .footer-widget-heading {
+    margin: 1rem 0 0 0;
+  }
+}

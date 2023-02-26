@@ -1,0 +1,40 @@
+.card {
+  box-shadow: 1px 2px 3px 2px rgba(25, 25, 25, 0.207);
+}
+.green {
+  background-color: #05b875 !important;
+  padding: 0 0 2.3rem 0;
+  color: #fff;
+  height: 130px;
+}
+.icon {
+  font-size: 70pt;
+  float: right;
+  color: #fff;
+  position: absolute;
+  top: 15px;
+  right: 6px;
+  opacity: 0.3;
+  transition: all 0.3s ease-in-out;
+}
+.card:hover .icon {
+  opacity: 0.2;
+  transform: scale(1.05);
+}
+.forbidden {
+  cursor: not-allowed;
+}
+@media only screen and (max-width: 767px) {
+  .icon {
+    font-size: 30pt;
+    top: 15px;
+    right: 8px;
+    transition: all 0.3s ease-in-out;
+  }
+}
+input.form-control {
+  border-radius: 0;
+  box-shadow: none;
+  border-color: #ced4da;
+  height: auto;
+}
