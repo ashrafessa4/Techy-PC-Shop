@@ -40,13 +40,15 @@ npm i (required in client-side and in server-side)
 
 ```
 Server Side:-
+server port and client port have to be the same
 PORT: Which port the server is running on
 dbConnect: URL to db (MongoDB Preferably)
-SecretKey: a random string
+secretKey: a random string
 ```
 
 ```
 Client Side:-
+server port and client port have to be the same
 VITE_API_BASE_URL: localhost URL + /api/
 ```
 
