@@ -14,7 +14,6 @@ function AdminPanel() {
   const [isChanged, setIsChanged] = useState(false);
   const [products, setProducts] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
-  cmnt
   React.useEffect(() => {
     getAllProducts()
       .then((result) => {
